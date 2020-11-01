@@ -1,0 +1,22 @@
+{
+  "name": "kafka-helm",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iAbhishek91/kafka-helm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iAbhishek91/kafka-helm/issues"
+  },
+  "homepage": "https://github.com/iAbhishek91/kafka-helm#readme",
+  "dependencies": {
+    "kafkajs": "^1.14.0"
+  }
+}
